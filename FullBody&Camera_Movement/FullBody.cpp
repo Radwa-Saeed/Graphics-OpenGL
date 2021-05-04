@@ -662,7 +662,7 @@ static void mouse(int button, int state, int x, int y)
 }
 
 
-static void motion(int x, int y)
+/* static void motion(int x, int y)
 {
   if (moving) {
     angle = angle + (x - startx);
@@ -672,7 +672,7 @@ static void motion(int x, int y)
     glutPostRedisplay();
   }
 }
-
+ */
 
 
 int main(int argc, char **argv)
@@ -688,7 +688,7 @@ int main(int argc, char **argv)
    glutReshapeFunc(reshape);
    glutKeyboardFunc(keyboard);
    glutSpecialFunc(specialKeys);
-   glutMotionFunc(motion);  
+   /* glutMotionFunc(motion);  */ 
    glutMainLoop();
    return 0;
 }
