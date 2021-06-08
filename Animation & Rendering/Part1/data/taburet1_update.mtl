@@ -1,0 +1,13 @@
+# Blender MTL File: 'taburet1.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 225.000000
+Ka 0.0, 0.0, 0.0
+Kd 0.113, 0.231, 0.109
+Ks 0.0, 0.0, 0.0
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd taburet1_update.jpg
