@@ -39,7 +39,6 @@ int main(int argc, char **argv)
 * ```glutMainLoop();``` leaves the control and looping of window displaying to GLUT.
   
 
-
 ### 3. Shoulder
 <center><img src="shoulder.png" alt="alt text" width="500" height="250"></center>
 
