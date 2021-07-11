@@ -59,4 +59,5 @@ Here are the shortcuts for movements
 |  <kbd>x</kbd> & <kbd>X</kbd> | Right leg x |
 |  <kbd>c</kbd> & <kbd>C</kbd> | Left leg x |
 |  <kbd>v</kbd> & <kbd>V</kbd> | Left knee x |
+
           
