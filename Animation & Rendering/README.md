@@ -1,4 +1,4 @@
-# CG Task3
+# SBE306B - Assignment 3 - Visualization & Motion
 
 ## Part1
 
